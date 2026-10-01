@@ -10,4 +10,5 @@ mi diagrama cuenta con clase padre e hija y inventario especifica y ayuda a comp
 # Fase 3 Código 
 mi código lleva un menú y se puede ejecutar para que puedan usar el video juego y jugarlo cuenta con tres vidas y direcciones como sur este y oeste 
 
-# Fase 4 
+# Fase 4
+ya subi los archivos correspondientes
